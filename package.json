@@ -1,0 +1,27 @@
+{
+  "name": "quasar-utils",
+  "version": "0.1.2",
+  "description": "Quasar Utils and Helpers",
+  "main": "dist/index.js",
+  "author": "Vinicius Reis <luiz.vinicius73@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint src/**/*.js",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "buble": "^0.15.2",
+    "buble-loader": "^0.4.1",
+    "eslint": "^3.18.0",
+    "eslint-config-standard": "^7.1.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^2.1.1",
+    "webpack": "^2.3.2"
+  },
+  "dependencies": {
+    "lodash.isempty": "^4.4.0"
+  },
+  "peerDependencies": {
+    "quasar-framework": "^0.13.6"
+  }
+}
