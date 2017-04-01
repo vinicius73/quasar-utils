@@ -1,19 +1,22 @@
 {
   "name": "quasar-utils",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Quasar Utils and Helpers",
   "keywords": [
     "vue",
     "quasar",
     "quasar-framework"
   ],
-  "main": "dist/index.js",
   "url": "https://github.com/vinicius73/quasar-utils",
   "bugs": "https://github.com/vinicius73/quasar-utils/issues",
   "repository": "https://github.com/vinicius73/quasar-utils",
   "homepage": "https://github.com/vinicius73/quasar-utils",
   "author": "Vinicius Reis <luiz.vinicius73@gmail.com>",
   "license": "MIT",
+  "main": "dist/index.js",
+  "files": [
+    "dist/"
+  ],
   "scripts": {
     "lint": "eslint src/**/*.js",
     "build": "webpack"
