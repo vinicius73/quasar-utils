@@ -1,6 +1,21 @@
 # Quasar Utils
 Quasar Utils and Helpers
 
+## Setup
+
+```shell
+yarn add quasar-utils # or npm install quasar-utils --save
+```
+
+```js
+import QuasarUtils from 'quasar-utils'
+
+
+//
+
+Vue.use(QuasarUtils)
+```
+
 ## Plugins
 A collection of helpers to facilitate access to some quasar features
 
