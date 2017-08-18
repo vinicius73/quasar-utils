@@ -1,6 +1,6 @@
 {
   "name": "quasar-utils",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Quasar Utils and Helpers",
   "keywords": [
     "vue",
@@ -36,6 +36,6 @@
     "lodash.isempty": "^4.4.0"
   },
   "peerDependencies": {
-    "quasar-framework": "^0.13.6"
+    "quasar-framework": "^0.13.6 || ^0.14.1"
   }
 }
