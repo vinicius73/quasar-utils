@@ -1,4 +1,7 @@
 # Quasar Utils
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/vinicius73/quasar-utils.svg)](https://greenkeeper.io/)
+
 Quasar Utils and Helpers
 
 ## Setup
