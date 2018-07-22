@@ -24,13 +24,13 @@
     "build": "webpack"
   },
   "devDependencies": {
-    "buble": "^0.15.2",
-    "buble-loader": "^0.4.1",
-    "eslint": "^3.18.0",
-    "eslint-config-standard": "^7.1.0",
+    "buble": "^0.19.3",
+    "buble-loader": "^0.5.1",
+    "eslint": "^5.2.0",
+    "eslint-config-standard": "^11.0.0",
     "eslint-plugin-promise": "^3.5.0",
-    "eslint-plugin-standard": "^2.1.1",
-    "webpack": "^2.3.2"
+    "eslint-plugin-standard": "^3.1.0",
+    "webpack": "^4.16.1"
   },
   "dependencies": {
     "lodash.isempty": "^4.4.0"
